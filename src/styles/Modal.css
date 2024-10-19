@@ -1,0 +1,24 @@
+.modal-header{
+    background-color: var(--tertiary-background-color) !important;
+    border-bottom: #121212 1px solid !important;
+}
+.modal-body{
+    background-color: var(--tertiary-background-color) !important;
+    outline: none;
+    border-bottom: #121212 1px solid !important;
+}
+.modal-footer{
+    background-color: var(--tertiary-background-color) !important;
+    outline: none;
+    border: none;
+}
+.modal-button{
+    background-color:  var(--primary-background-color) !important;
+    color: var(--secondary-text-color) !important;
+}
+.bi-check2-circle{
+    font-size: 1.5rem;
+    position: relative;
+    top: 0;
+    margin-left: 10px;
+}

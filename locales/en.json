@@ -1,0 +1,93 @@
+{
+    "homepage" :{
+        "main" :  "TaskQuest | Home Page",
+        "title" : "TaskQuest",
+        "footer": "A task application developed by DEPI Ghr_swd2_S2d (Group 3)",
+        "button": "Dashboard",
+        "subtitle" : "No account required!",
+        "features":{
+            "trackTasks" :"Track your tasks,",
+            "productivity" : "boost your productivity."
+        },
+        "description": "It's time to manage your tasks and to-dos more efficiently. Our app provides a simple yet powerful interface to keep track of your responsibilities.",
+        "select1" : "-You can see your completed tasks, active tasks, and average completion time within your dashboard.",
+        "select2" : "-You can easily add tasks, manage tasks and search tasks with my tasks page."
+    },
+    "sidebar" :{
+        "title" :"TaskQuest",
+        "dashboard" : "Dashboard",
+        "myTasks" :"My Tasks",
+        "archive" :"Archive",
+        "copyright" : "All rights reserved 2024.",
+        "profile" : "Profile",
+        "homePage" : "Home Page",
+        "calendar" : "Calendar"
+    },
+    "dashboard":{
+        "main" :  "TaskQuest | Dashboard",
+        "title" : "Dashboard",
+        "stats0": "Hello, ",
+        "stats1": "here's your stats.",
+        "myDashboard" :"My Dashboard",
+        "loading":"Loading..."
+    },
+    "dates":{
+        "months": [
+            "January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ]
+    },
+    "chart":{
+        "completed" : "Completed Tasks",
+        "active": "Active Tasks",
+        "count" :"Count",
+        "time" : "Average Task Complete Time (Min)"
+    },
+    "myTasks":{
+        "main" :  "TaskQuest | My Tasks",
+        "title" : "My Tasks",
+        "description" : "You can add tasks with ''Add Task'' button and manage tasks with action buttons.",
+        "need":"What do you need to do today?",
+        "select" :"Select Priority",
+        "select1" : "High",
+        "select2" : "Normal",
+        "select3" : "Low",
+        "addTask" : "Add Task +",
+        "search" :"Search Task",
+        "tasks" : "Tasks",
+        "prio" : "Priority",
+        "dueDate": "Due Date",
+        "action" : "Action"
+    },
+    "modal":{
+        "error":"Error",
+        "msg" :"Task cannot be empty!",
+        "close": "Close",
+        "msg1":"Changes successfully saved.",
+        "info": "Information",
+        "complete" : "You have completed the task.",
+        "msg2" : "Completion time:",
+        "minutes" : " Minutes ",
+        "hours" : " Hours "
+
+    },
+    "profile":{
+        "main" :  "TaskQuest | Profile",
+        "title" :"My Profile",
+        "select" :"Select Photo",
+        "fullName": "Full Name",
+        "fullNameP":"Your Full Name",
+        "username" :"Username",
+        "usernameP" :"Your Username",
+        "emailP" :"Your Email",
+        "save" : "Save Changes",
+        "lang" : "Language"
+    },
+    "archive" :{
+        "main" :  "TaskQuest | Archive",
+        "title": "My Archive",
+        "description" :"You can find all of your tasks archive here.",
+        "button" :"Clear"
+    }
+}
+  
